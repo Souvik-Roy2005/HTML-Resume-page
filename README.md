@@ -73,7 +73,3 @@ This project was built to meet the following evaluation parameters:
 This assignment emphasizes **HTML fundamentals**, structure, and clarity over styling. All content is customizable, and placeholder data can be replaced with personal information.
 
 Happy coding! 🚀
-
----
-
-Just say the word 👀
